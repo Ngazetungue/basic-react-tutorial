@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --blue: #72c9ef;
+  --green: #5af987;
+  --gray: #898989;
+  --red: #dc3545;
+  --purple: #902bf5;
+  --light: #f0f2f5;
+  --dark: #26354a;
+}
